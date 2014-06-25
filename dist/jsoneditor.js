@@ -2089,7 +2089,7 @@ JSONEditor.defaults.editors.string = JSONEditor.AbstractEditor.extend({
     }
 
     this.input
-      .addEventListener('change',function(e) {        
+      .addEventListener('input',function(e) {        
         e.preventDefault();
         e.stopPropagation();
         
