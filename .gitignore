@@ -1,2 +1,6 @@
 /node_modules/
 /.idea/
+
+# Sublime Text
+json-editor.sublime-project
+json-editor.sublime-workspace
